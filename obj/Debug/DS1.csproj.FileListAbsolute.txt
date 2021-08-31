@@ -1,0 +1,17 @@
+C:\Users\ofrometa\source\repos\DS1\DS1\obj\Debug\DS1.csproj.AssemblyReference.cache
+C:\Users\ofrometa\source\repos\DS1\DS1\obj\Debug\DS1.LoginForm.resources
+C:\Users\ofrometa\source\repos\DS1\DS1\obj\Debug\DS1.Properties.Resources.resources
+C:\Users\ofrometa\source\repos\DS1\DS1\obj\Debug\DS1.csproj.GenerateResource.cache
+C:\Users\ofrometa\source\repos\DS1\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\ofrometa\source\repos\DS1\DS1\bin\Debug\DS1.exe.config
+C:\Users\ofrometa\source\repos\DS1\DS1\bin\Debug\DS1.exe
+C:\Users\ofrometa\source\repos\DS1\DS1\bin\Debug\DS1.pdb
+C:\Users\ofrometa\source\repos\DS1\DS1\obj\Debug\DS1.exe
+C:\Users\ofrometa\source\repos\DS1\DS1\obj\Debug\DS1.pdb
+C:\Users\ofrometa\source\repos\DS1\DS1\bin\Debug\EntityFramework.dll
+C:\Users\ofrometa\source\repos\DS1\DS1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ofrometa\source\repos\DS1\DS1\bin\Debug\EntityFramework.xml
+C:\Users\ofrometa\source\repos\DS1\DS1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ofrometa\source\repos\DS1\DS1\obj\Debug\DS1.MainForm.resources
+C:\Users\ofrometa\source\repos\DS1\DS1\obj\Debug\DS1.csproj.CopyComplete
+C:\Users\ofrometa\source\repos\DS1\DS1\obj\Debug\DS1.UserForm.resources
