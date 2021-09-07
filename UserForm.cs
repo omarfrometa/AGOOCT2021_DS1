@@ -193,5 +193,10 @@ namespace DS1
             txtDisplayName.Text = string.Empty;
             txtEmail.Text = string.Empty;
         }
+
+        private void txtEmailEdit_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

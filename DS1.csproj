@@ -127,6 +127,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="RoleForm.resx">
+      <DependentUpon>RoleForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UserForm.resx">
       <DependentUpon>UserForm.cs</DependentUpon>
     </EmbeddedResource>
